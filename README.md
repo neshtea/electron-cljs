@@ -5,11 +5,13 @@ Just a small translation of Electrons [Write Your First Electron App](https://gi
 ## Usage
 
 Just
+``` bash
    git clone https://github.com/neshtea/electron-cljs.git
    cd electron-git
    npm install
    lein cljsbuild once
    electron .
+```
 
 ## License
 
